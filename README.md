@@ -1,7 +1,7 @@
 Rotary Club Grub: Lunch Group Randomizer
 =======================================
 
-[![rc-grub-logo](rotaryclubgrub/static/rotaryclubgrub/rc-grub-logo.png?raw=true)"Optional Title Says this looks like stylized french fries."]
+![rc-grub-logo](rotaryclubgrub/static/rotaryclubgrub/rc-grub-logo-sm.png?raw=true)
 
 What is rotaryclubgrub?
 -------------
